@@ -126,8 +126,8 @@ export const atomicautomat = async (args: string[]): Promise<string> => {
   Neon District - Suspected of organ trafficing, multiple cases of disobedience and rebellion. - ON WATCH`;
 };
 
-export const vim = async (args: string[]): Promise<string> => {
-  return `'vim' is so outdated. how about 'nvim'?`;
+export const nano = async (args: string[]): Promise<string> => {
+  return `'nano' is so limiting. how about 'nvim'?`;
 };
 
 export const nvim = async (args: string[]): Promise<string> => {
