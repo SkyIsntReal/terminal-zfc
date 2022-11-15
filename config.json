@@ -9,7 +9,7 @@
   },
   "email": "contact@email.com",
   "ps1_hostname": "zfc",
-  "ps1_username": "unauthorized",
+  "ps1_username": "authorized",
   "repo": "https://discord.gg/7bYypGbA3r",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
